@@ -2,7 +2,7 @@ package models;
 
 public class Chien {
 
-    private static String nom;
+    private String nom;
     private int age;
 
     public Chien(String nomDuChien, int ageDuChien) {
